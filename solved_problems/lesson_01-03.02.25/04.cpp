@@ -46,7 +46,6 @@ int main() {
         for (int i = second_prime_index; i < n - 1; ++i) {
             arr[i] = arr[i + 1];
         }
-        n;
     }
 
     int* tmp_arr = new int[n - 1];
